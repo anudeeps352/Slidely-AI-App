@@ -8,4 +8,4 @@ Make sure to run the backend app first then the Windows app.
 
 # Forms App
 
-Simply copy the GForm.exe application inside the app folder to your desktop or clone the repo and open the app.The other files are the source code for the App.
+Simply copy the GForm.exe application  to your desktop or clone the repo and open the app.The other files are the source code for the App.
