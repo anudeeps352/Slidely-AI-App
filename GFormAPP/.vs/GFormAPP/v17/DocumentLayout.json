@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\gformapp\\createsubmissionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\createsubmissionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\gformapp.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\gformapp.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|c:\\users\\anudeep\\source\\repos\\gformapp\\gformapp\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6FA4C29-6ADE-4DFD-BA03-5788B7CC0F4B}|GFormAPP\\GFormAPP.vbproj|solutionrelative:gformapp\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "GFormAPP\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:08:48.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "GFormAPP\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:05:46.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\MainForm.Designer.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\MainForm.Designer.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\MainForm.Designer.vb",
+              "RelativeToolTip": "GFormAPP\\MainForm.Designer.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:48:12.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\MainForm.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\MainForm.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\MainForm.vb [Design]",
+              "RelativeToolTip": "GFormAPP\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T20:13:03.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "GFormAPP\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:09:01.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "GFormAPP\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:26:06.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\MainForm.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\MainForm.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\MainForm.vb",
+              "RelativeToolTip": "GFormAPP\\MainForm.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:02:24.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateSubmissionForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\CreateSubmissionForm.Designer.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.Designer.vb",
+              "RelativeToolTip": "GFormAPP\\CreateSubmissionForm.Designer.vb",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowFsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:08:57.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateSubmissionForm.resx",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.resx",
+              "RelativeDocumentMoniker": "GFormAPP\\CreateSubmissionForm.resx",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\CreateSubmissionForm.resx",
+              "RelativeToolTip": "GFormAPP\\CreateSubmissionForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-20T21:48:58.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\Submission.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\Submission.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\Submission.vb",
+              "RelativeToolTip": "GFormAPP\\Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:01:13.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewSubmissionsForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ViewSubmissionsForm.Designer.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\ViewSubmissionsForm.Designer.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ViewSubmissionsForm.Designer.vb",
+              "RelativeToolTip": "GFormAPP\\ViewSubmissionsForm.Designer.vb",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowKcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:46:09.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\ApplicationEvents.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\ApplicationEvents.vb",
+              "RelativeToolTip": "GFormAPP\\ApplicationEvents.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:48:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GFormAPP.vbproj",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\GFormAPP.vbproj",
+              "RelativeDocumentMoniker": "GFormAPP\\GFormAPP.vbproj",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\GFormAPP.vbproj",
+              "RelativeToolTip": "GFormAPP\\GFormAPP.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-20T21:59:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "GFormAPP\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Anudeep\\source\\repos\\GFormAPP\\GFormAPP\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "GFormAPP\\My Project\\Application.Designer.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:54:54.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
